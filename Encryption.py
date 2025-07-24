@@ -1,6 +1,3 @@
-# Allameh Helli 10 high school
-# Programming class
-# HelliPaad
 # HoomaanTaba
 
 from random import randint
