@@ -32,7 +32,7 @@ If you wnat to decrypt a text, enter D.\n''')
         # inputing the name of file
         name = input("Enter your file name: ")
         # *** In this part, you must type your own desktop address. ***
-        ad = r"C:\\Users\\Ali\\Desktop\\" + name + ".txt"
+        ad = r"C:\\Users\\Hoomaan\\Desktop\\" + name + ".txt"
     else:
         print("Please enter E or D.")
         quit()
